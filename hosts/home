@@ -1,0 +1,4 @@
+# hosts
+192.168.123.3	ilo.lsong.lan
+192.168.123.4	vm.lsong.lan
+192.168.123.100 media.lsong.lan
