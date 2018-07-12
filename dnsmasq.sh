@@ -1,4 +1,4 @@
-#!/bin/ash
+#!/bin/bash
 
 # GPL $Id: dnsmasq,v 1.2 2005/03/22 15:06:14 cvonk Exp $
 # system init for DNS forwarder and DHCP server (dnsmasq)
